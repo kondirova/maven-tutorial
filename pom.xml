@@ -13,8 +13,6 @@
         <module>demo1</module>
         <module>maven-with-profiles</module>
         <module>maven-excluded-pom</module>
-        <module>maven-excluded-pom/module1</module>
-        <module>maven-excluded-pom/module1/module1-1</module>
         <module>maven-with-junit</module>
     </modules>
 
