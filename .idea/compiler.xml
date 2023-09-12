@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-with-junit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bartest" target="1.8" />
+      <module name="footest" target="1.8" />
+      <module name="footest.main" target="1.8" />
+      <module name="footest.test" target="11" />
+      <module name="idea317065" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
