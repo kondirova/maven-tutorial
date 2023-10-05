@@ -14,6 +14,7 @@
         <module>maven-with-profiles</module>
         <module>maven-excluded-pom</module>
         <module>maven-with-junit</module>
+        <module>new-module</module>
     </modules>
 
 

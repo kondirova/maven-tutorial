@@ -7,6 +7,14 @@
     <file url="file://$PROJECT_DIR$/../maven-complex-structure 3/footest/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../maven-complex-structure 3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../maven-complex-structure 3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/module1/module1-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/module1/module1-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/module1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/module1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-excluded-pom/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/maven-with-junit/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/maven-with-junit/src/main/resources" charset="UTF-8" />
   </component>
